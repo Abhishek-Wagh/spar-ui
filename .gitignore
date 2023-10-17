@@ -41,3 +41,7 @@ local.properties
 *.iml
 *.xcuserstate
 project.xcworkspace
+
+.env
+.venv
+venv
